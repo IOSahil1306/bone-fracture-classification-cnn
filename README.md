@@ -4,7 +4,7 @@
 This project implements a Convolutional Neural Network (CNN) to classify **bone X-ray images** as fractured or healthy.  
 It uses deep learning to assist in **medical imaging diagnosis**, potentially helping radiologists detect fractures faster and more accurately.
 
-The model is trained on the [Bone Fracture Dataset from Kaggle], with preprocessing, augmentation, and CNN architecture tuning for optimal performance.
+The model is trained on the [Bone Fracture Dataset from Hugging face],[https://huggingface.co/datasets/IOSahil2003/X-ray/tree/main], with preprocessing, augmentation, and CNN architecture tuning for optimal performance.
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x
